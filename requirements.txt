@@ -1,1 +1,2 @@
-install ipykernal #pip install ipykernal 
+install ipykernal #pip install ipykernal
+install 
